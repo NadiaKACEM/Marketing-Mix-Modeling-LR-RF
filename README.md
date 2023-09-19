@@ -1,4 +1,4 @@
-**1. Summerize **  :
+**1. Summerize :** 
 
 In this analysis, I aimed to develop a market mix model (MMM) to optimize advertising spend and predict sales for a consumer goods company. My objectives were to improve the accuracy of sales predictions and identify the key drivers influencing sales.
 
